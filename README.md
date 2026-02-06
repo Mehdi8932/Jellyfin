@@ -1,5 +1,3 @@
-#
-'''
+```
 wget https://raw.githubusercontent.com/Mehdi8932/Jellyfin/main/jellyfin.sh && chmod +x jellyfin.sh && sh jellyfin.sh
-'''
-Done !
+```
